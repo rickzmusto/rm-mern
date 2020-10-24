@@ -1,3 +1,3 @@
-##RM-MERN
+## RM-MERN
 
 Work in progress
