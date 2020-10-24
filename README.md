@@ -1,1 +1,3 @@
-#RM-Ecom an Express based E-Commerce Template
+##RM-MERN
+
+Work in progress
